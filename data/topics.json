@@ -1,0 +1,14 @@
+[
+  "Токенізація (BPE, WordPiece, SentencePiece)",
+  "Word embeddings (Word2Vec, GloVe, FastText)",
+  "Механізм уваги (attention) та self-attention",
+  "Архітектура Transformer",
+  "BERT vs GPT: різниця архітектур і задач навчання",
+  "Метрики оцінки в NLP (BLEU, ROUGE, perplexity)",
+  "Fine-tuning, LoRA та parameter-efficient методи",
+  "RLHF та вирівнювання (alignment) мовних моделей",
+  "Retrieval-Augmented Generation (RAG)",
+  "LLM-агенти та tool use",
+  "Мовні моделі: n-грами, RNN, LSTM",
+  "Prompt engineering (few-shot, chain-of-thought)"
+]
